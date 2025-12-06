@@ -4,7 +4,7 @@ aVisa LTSC是我个人维护的Minecraft Java:Eition服务器，我在此公开�
 Regarding Language:​ As this project primarily documents the operation of a server within a Chinese-speaking community, and due to my own limited proficiency in English, all documentation and logs are currently written in Chinese. We warmly welcome enthusiasts from around the world to refer to these materials, but there are no immediate plans for translations into other languages.
 
 ##许可与使用
-本项目采用 知识共享 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可证（https://creativecommons.org/licenses/by-sa/4.0/），并有以下社区守则要求：
+本项目采用 知识共享 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可证（https://creativecommons.org/licenses/by-sa/4.0），并有以下社区守则要求：
 1. 不得明显影响他人正常生活、工作。
 2. 须标明出处。
 3. 不得恶意曲解原文内容。
