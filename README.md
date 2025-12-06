@@ -4,12 +4,13 @@ aVisa LTSC是我个人维护的Minecraft Java:Eition服务器，我在此公开�
 Regarding Language:​ As this project primarily documents the operation of a server within a Chinese-speaking community, and due to my own limited proficiency in English, all documentation and logs are currently written in Chinese. We warmly welcome enthusiasts from around the world to refer to these materials, but there are no immediate plans for translations into other languages.
 
 ## 许可与使用
-本项目采用 知识共享 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可证（[https://creativecommons.org/licenses/by-sa/4.0]），并有以下社区守则要求：
-1. 不得明显影响他人正常生活、工作。
-2. 须标明出处。
-3. 不得恶意曲解原文内容。
-4. 码云 (Gitee)、CSDN（博客、下载频道等）与任何其他具有类似“内容农场”的过往不良记录，或历史上屡次出现违反开源协议行为的平台，严禁以任何方式转载甚至使用本项目任何内容。
-5. 由于在线内容的特殊性，我保留随时更改项目内容，与要求所有转载、使用者以最新更新内容为准的权利，同时我有义务标注所有内容的最新更新时间。
+本项目采用 `知识共享 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可证`（https://creativecommons.org/licenses/by-sa/4.0/），并有以下社区守则要求：
+
+`1. 不得明显影响他人正常生活、工作。`
+`2. 须标明出处。`
+`3. 不得恶意曲解原文内容。`
+`4. 码云 (Gitee)、CSDN（博客、下载频道等）与任何其他具有类似“内容农场”的过往不良记录，或历史上屡次出现违反开源协议行为的平台，严禁以任何方式转载甚至使用本项目任何内容。`
+`5. 由于在线内容的特殊性，我保留随时更改项目内容，与要求所有转载、使用者以最新更新内容为准的权利，同时我有义务标注所有内容的最新更新时间。`
 
 ## aVisa LTSC的性质，与本项目的参考价值。
 aVisa LTSC是以超长期存档，稳定运行，高信任者社区，贴近新版本，生电与娱乐休闲皆可的，高性能配置，用户友好，安全可靠，公益性质，原版节奏为目标的Minecraft:Java Edition服务器。
