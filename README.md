@@ -1,5 +1,5 @@
-# aVisa LTSC Minecraft Server Open Source Project
-aVisa LTSC是我个人维护的Minecraft Java:Eition服务器，我在此公开所有可共享内容帮助任何需要它们的人，成为aVisa LTSC Open Source Project，aVisa LTSC开源项目。
+# aVisa LTSC Minecraft 服务器知识鱼经验共享项目
+aVisa LTSC是我个人维护的Minecraft Java:Eition服务器，我在此公开所有可共享内容帮助任何需要它们的人，成为aVisa LTSC Minecraft 服务器知识鱼经验共享项目。
 
 Regarding Language:​ As this project primarily documents the operation of a server within a Chinese-speaking community, and due to my own limited proficiency in English, all documentation and logs are currently written in Chinese. We warmly welcome enthusiasts from around the world to refer to these materials, but there are no immediate plans for translations into other languages.
 
